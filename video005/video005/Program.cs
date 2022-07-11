@@ -54,7 +54,7 @@
            La forzamos los programadores. ej: uso del metodo Parse() para convertir texto a entero
 */
 
-Console.WriteLine(5 * 2);
+Console.WriteLine(6 * 2);
 Console.WriteLine(5 / 2);
 Console.WriteLine(5.0 / 2);
 Console.WriteLine(9 % 3);
