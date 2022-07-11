@@ -1,0 +1,15 @@
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\bin\Debug\net6.0\video058.exe
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\bin\Debug\net6.0\video058.deps.json
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\bin\Debug\net6.0\video058.runtimeconfig.json
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\bin\Debug\net6.0\video058.dll
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\bin\Debug\net6.0\video058.pdb
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\obj\Debug\net6.0\video058.csproj.AssemblyReference.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\obj\Debug\net6.0\video058.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\obj\Debug\net6.0\video058.AssemblyInfoInputs.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\obj\Debug\net6.0\video058.AssemblyInfo.cs
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\obj\Debug\net6.0\video058.csproj.CoreCompileInputs.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\obj\Debug\net6.0\video058.dll
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\obj\Debug\net6.0\refint\video058.dll
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\obj\Debug\net6.0\video058.pdb
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\obj\Debug\net6.0\video058.genruntimeconfig.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\video058\video058\obj\Debug\net6.0\ref\video058.dll

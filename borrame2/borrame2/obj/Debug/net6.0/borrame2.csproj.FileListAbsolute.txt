@@ -1,0 +1,15 @@
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\bin\Debug\net6.0\borrame2.exe
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\bin\Debug\net6.0\borrame2.deps.json
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\bin\Debug\net6.0\borrame2.runtimeconfig.json
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\bin\Debug\net6.0\borrame2.dll
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\bin\Debug\net6.0\borrame2.pdb
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\obj\Debug\net6.0\borrame2.csproj.AssemblyReference.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\obj\Debug\net6.0\borrame2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\obj\Debug\net6.0\borrame2.AssemblyInfoInputs.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\obj\Debug\net6.0\borrame2.AssemblyInfo.cs
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\obj\Debug\net6.0\borrame2.csproj.CoreCompileInputs.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\obj\Debug\net6.0\borrame2.dll
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\obj\Debug\net6.0\refint\borrame2.dll
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\obj\Debug\net6.0\borrame2.pdb
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\obj\Debug\net6.0\borrame2.genruntimeconfig.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame2\borrame2\obj\Debug\net6.0\ref\borrame2.dll

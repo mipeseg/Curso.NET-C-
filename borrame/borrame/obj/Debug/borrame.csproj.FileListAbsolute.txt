@@ -1,0 +1,8 @@
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame\borrame\obj\Debug\borrame.csproj.AssemblyReference.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame\borrame\obj\Debug\borrame.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame\borrame\obj\Debug\borrame.csproj.CoreCompileInputs.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame\borrame\bin\Debug\borrame.exe.config
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame\borrame\bin\Debug\borrame.exe
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame\borrame\bin\Debug\borrame.pdb
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame\borrame\obj\Debug\borrame.exe
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\borrame\borrame\obj\Debug\borrame.pdb

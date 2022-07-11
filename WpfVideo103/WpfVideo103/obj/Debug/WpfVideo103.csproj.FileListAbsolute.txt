@@ -1,0 +1,16 @@
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\bin\Debug\WpfVideo103.exe.config
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\bin\Debug\WpfVideo103.exe
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\bin\Debug\WpfVideo103.pdb
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\WpfVideo103.csproj.AssemblyReference.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\WpfVideo103.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\MainWindow.g.cs
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\App.g.cs
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\WpfVideo103_MarkupCompile.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\WpfVideo103_MarkupCompile.lref
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\MainWindow.baml
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\WpfVideo103.g.resources
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\WpfVideo103.Properties.Resources.resources
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\WpfVideo103.csproj.GenerateResource.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\WpfVideo103.csproj.CoreCompileInputs.cache
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\WpfVideo103.exe
+D:\Cursos\.NET\Tutorial PildorasInformaticas\ejercicios\WpfVideo103\WpfVideo103\obj\Debug\WpfVideo103.pdb
